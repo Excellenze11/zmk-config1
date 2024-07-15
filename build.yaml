@@ -13,9 +13,12 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  #- board: nice_nano_v2
+  - board: nrfmicro_13_52833
     shield: hillside_view_left nice_view
-  - board: nice_nano_v2
+  #- board: nice_nano_v2
+  - board: nrfmicro_13_52833
     shield: hillside_view_right nice_view
-  - board: nice_nano_v2
+  #- board: nice_nano_v2
+  - board: nrfmicro_13_52833
     shield: settings_reset
